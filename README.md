@@ -9,7 +9,7 @@
 ``` bash
 #!/bin/bash
 echo -n 'X5O!P%@AP[4\PZX54(P^)7CC)7}$' > eicar.txt
-echo -n 'EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*' >> eicar.txt 
+echo -n 'EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*' >> eicar.txt
 ```
 に等価。最後の改行はあってもなくてもいいらしい。
 
